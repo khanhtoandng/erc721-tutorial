@@ -1,0 +1,27 @@
+{
+  "name": "Solidity logo for tutorial",
+  "description": "This is first logo",
+  "image": "https://ipfs.io/ipfs/QmWTCAvkcNSGd2BydDNeusgUzAiPyGW8XRiLoFpDoz3g78",
+  "attributes": [
+    {
+      "trait_type": "speed",
+      "value": 6,
+      "max_value": 10
+    },
+    {
+      "trait_type": "control",
+      "value": 9,
+      "max_value": 10
+    },
+    {
+      "trait_type": "acceleration",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "nitro",
+      "value": 2,
+      "max_value": 10
+    }
+  ]
+}
