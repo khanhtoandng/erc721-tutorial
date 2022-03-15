@@ -1,0 +1,50 @@
+{
+  "name": "CR7 logo for tutorial",
+  "description": "This is second logo",
+  "image": "https://ipfs.io/ipfs/QmPnN9kkXUz7cPEUwixkCd3Ee4dnXMiDcV6i6hk1rM5sfc",
+  "attributes": [
+    {
+      "trait_type": "speed",
+      "value": 6,
+      "max_value": 10
+    },
+    {
+      "trait_type": "control",
+      "value": 9,
+      "max_value": 10
+    },
+    {
+      "trait_type": "acceleration",
+      "value": 7,
+      "max_value": 10
+    },
+    {
+      "trait_type": "nitro",
+      "value": 2,
+      "max_value": 10
+    },
+    {
+      "display_type": "boost_number",
+      "trait_type": "speed",
+      "value": 1
+    },
+    {
+      "display_type": "boost_percentage",
+      "trait_type": "control",
+      "value": 20
+    },
+    {
+      "display_type": "number",
+      "trait_type": "generation",
+      "value": 1
+    },
+    {
+      "trait_type": "original",
+      "value": true
+    },
+    {
+      "trait_type": "Upgradable",
+      "value": true
+    }
+  ]
+}
